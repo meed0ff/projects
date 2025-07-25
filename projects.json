@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "image": "",
+        "name": "Interiorqu.",
+        "tags": "React,Vite,TypeScript,TailwindCSS,CSS,HTML,React-Router,API",
+        "url": "http://interior.meedweff.uz/"
+    },
+    {
+        "id": 2,
+        "image": "",
+        "name": "Memory Card Game",
+        "tags": "React,Vite,TypeScript,TailwindCSS,CSS,HTML,React-Router",
+        "url": "http://memory-card-game.meedweff.uz/"
+    },
+    {
+        "id": 3,
+        "image": "",
+        "name": "Veva",
+        "tags": "React,Vite,TypeScript,TailwindCSS,CSS,HTML,React-Router,ShadCN UI",
+        "url": "http://veva.meedweff.uz/"
+    },
+    {
+        "id": 4,
+        "image": "",
+        "name": "Pompeo",
+        "tags": "React,Vite,TypeScript,TailwindCSS,CSS,HTML,React-Router",
+        "url": "https://pompeo.meedweff.uz/"
+    },
+    {
+        "id": 5,
+        "image": "",
+        "name": "Where am i",
+        "tags": "React,Vite,JavaScript,TailwindCSS,CSS,HTML,API,Axios,React-Router",
+        "url": "https://where-am-i.meedweff.uz/"
+    },
+    {
+        "id": 6,
+        "image": "",
+        "name": "Pig Game",
+        "tags": "React,Vite,TypeScript,TailwindCSS,CSS,HTML,React-Router",
+        "url": "https://pig-game.meedweff.uz/"
+    },
+    {
+        "id": 7,
+        "image": "",
+        "name": "Medical",
+        "tags": "React,Vite,TypeScript,TailwindCSS,CSS,HTML,React-Router,API",
+        "url": "https://medical-gamma-one.vercel.app/#"
+    },
+    {
+        "id": 8,
+        "image": "",
+        "name": "Albison",
+        "tags": "React,Vite,TypeScript,TailwindCSS,CSS,HTML,API,Axios,React-Router",
+        "url": "https://albison.uz/"
+    },
+    {
+        "id": 9,
+        "image": "",
+        "name": "Crazy Adventure X",
+        "tags": "Unity,C#",
+        "url": "https://cp.meedweff.uz/"
+    },
+    {
+        "id": 10,
+        "image": "",
+        "name": "Chere",
+        "tags": "React,NextJS,JavaScript,TailwindCSS,CSS,HTML",
+        "url": "https://chere.uz"
+    },
+    {
+        "id": 11,
+        "image": "",
+        "name": "Saidoff Agency",
+        "tags": "React,NextJS,JavaScript,TailwindCSS,CSS,HTML,API,Axios",
+        "url": "https://saidoff.uz"
+    },
+    {
+        "id": 12,
+        "image": "",
+        "name": "Saidoff CRM (DEMO)",
+        "tags": "React,NextJS,JavaScript,TailwindCSS,CSS,HTML,API,Axios,HighchartJS,ShadCN",
+        "url": "https://crm.meedweff.uz"
+    },
+    {
+        "id": 13,
+        "image": "",
+        "name": "Saidoff Academy Landing",
+        "tags": "NextJS,JavaScript,TailwindCSS,CSS,HTML",
+        "url": "https://academy.saidoff.uz"
+    },
+    {
+        "id": 14,
+        "image": "",
+        "name": "Saidoff Academy",
+        "tags": "React,NextJS,JavaScript,TailwindCSS,CSS,HTML,API,Axios,AOS",
+        "url": "https://saidoff-academy.uz"
+    },
+    {
+        "id": 15,
+        "image": "",
+        "name": "Al-Quran",
+        "tags": "React,Vite,TypeScript,TailwindCSS,CSS,HTML,API,Axios,React-Router",
+        "url": "https://quran.meedweff.uz/"
+    },
+    {
+        "id": 16,
+        "image": "",
+        "name": "Reduce CRM",
+        "tags": "React,NextJS,JavaScript,TailwindCSS,CSS,HTML,API,Axios,React-Query,ShadCN",
+        "url": "https://reduce.meedweff.uz/login"
+    },
+    {
+        "id": 17,
+        "image": "",
+        "name": "OTMK",
+        "tags": "React,NextJS,TypeScript,JavaScript,TailwindCSS,API,Axios,React-Query,HTML,CSS,ShadCN",
+        "url": "https://crmotmk.repid.uz"
+    }
+]
